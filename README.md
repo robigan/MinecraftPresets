@@ -1,5 +1,5 @@
 # What is this?
-This is my repository for presets of Minecraft Versions I can spin up in MultiMC 5 / ManyM
+This is my repository for presets of Minecraft Versions I can spin up in MultiMC 5 / ManyMC
 
 ManyMC is recommended for usage with M1/M2 macs
 
