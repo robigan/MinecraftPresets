@@ -1,5 +1,5 @@
 # Version 1.XX.X
-Preset Version for Minecraft 1.XX.X, using/for Multi MC 5
+Preset Version for Minecraft 1.XX.X, using/for Multi MC 5/ManyMC
 
 # Loaders/Mods:
 Loader:
