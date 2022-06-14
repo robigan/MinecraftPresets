@@ -1,10 +1,10 @@
-# Version 1.XX.X
-Preset Version for Minecraft 1.XX.X, using/for Multi MC 5/ManyMC
+# Version 1.19
+Preset Version for Minecraft 1.19, using/for ManyMC
 
 # Loaders/Mods:
-Loader:
-Mods:
+Loader: Fabric Loader
+Mods: AppleSkin; Architectury; Bad Packets; BetterF3; Dynamic FPS; Fabric API; Gamma Utils; Giselbaers Durability Viewer; Inventory Profiles Next; Journeymap; Krypton; LambDynamicLights; Lithium; Mod Menu; Reese's Sodium Options; Roughly Enough Items; Sodium; Wthit
 
 # Resourcepacks/Servers:
-Resourcepacks:
-Servers:
+Resourcepacks: Custom Vanilla Tweaks Resource Pack
+Servers: None
