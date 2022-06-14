@@ -1,0 +1,26 @@
+{
+    "ModSettings": {
+        "enable_profiles": false,
+        "enable_lock_slots": false,
+        "first_run": false
+    },
+    "GuiSettings": {
+        "continuous_crafting_saved_value": false
+    },
+    "AutoRefillSettings": {
+        "disable_for_drop_item": true,
+        "tool_damage_threshold": 0
+    },
+    "Hotkeys": {
+        "open_config_menu": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "sort_inventory": {
+            "main": {
+                "keys": ""
+            }
+        }
+    }
+}

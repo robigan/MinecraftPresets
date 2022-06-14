@@ -1,0 +1,14 @@
+name = "Gamma Utils"
+filename = "Gamma-Utils-1.6.8-mc1.19.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/wdLuzzEP/versions/1.6.8/Gamma-Utils-1.6.8-mc1.19.jar"
+hash-format = "sha512"
+hash = "1384b2dbb504901879709ee949ed0ea282154e76d27d077aa80e141f20a2018bf44884505cf1101ce15c7b3325ddcd5b87f4ae7659ae8fe17dfa14a23fcb2527"
+
+[update]
+[update.modrinth]
+mod-id = "wdLuzzEP"
+version = "asuG8Tao"
