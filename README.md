@@ -25,6 +25,7 @@ Mods:
  - FreeCam (Disabled)
  - Baritone (Beta Version) (Disabled)
  - Malilib (Unofficial) (Disabled)
+ - Litematica (Unofficial) (Disabled)
 
 # Resourcepacks/Servers:
 Resourcepacks: Custom Vanilla Tweaks Resource Pack
