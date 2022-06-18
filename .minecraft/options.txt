@@ -32,12 +32,12 @@ entityDistanceScaling:1.0
 guiScale:4
 particles:2
 maxFps:260
-graphicsMode:0
+graphicsMode:1
 ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","file/VanillaTweaks_r413165.zip","Fabric Mods"]
+resourcePacks:["vanilla","Fabric Mods"]
 incompatibleResourcePacks:[]
 lastServer:eclipsis.minecraft.best
 lang:en_us
@@ -114,6 +114,8 @@ key_key.hotbar.9:key.keyboard.9
 key_key.dynamicfps.toggle_forced:key.keyboard.unknown
 key_key.dynamicfps.toggle_disabled:key.keyboard.unknown
 key_key.durabilityviewer.showhide:key.keyboard.h
+key_key.freecam.toggle:key.keyboard.f4
+key_key.freecam.playerControl:key.keyboard.unknown
 key_key.gamma_utils.gamma_toggle:key.keyboard.unknown
 key_key.gamma_utils.increase_gamma:key.keyboard.unknown
 key_key.gamma_utils.decrease_gamma:key.keyboard.unknown
